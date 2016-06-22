@@ -11,4 +11,8 @@
 *プログラム
 
 var a=[5.3.9.1.10]
-a sort
+a sort(function(a,b){
+if(a<b)return-1;
+if(a>b)return1;
+return0;
+});
