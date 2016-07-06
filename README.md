@@ -16,3 +16,4 @@ if(a<b)return-1;
 if(a>b)return1;
 return0;
 });
+エビフライ
